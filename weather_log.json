@@ -1,3 +1,4 @@
 {"timestamp": "2026-03-16 23:15:49.590831", "data": {"city": "Hyderabad", "temperature": 25.74, "humidity": 34, "wind_speed": 1.77, "condition": "broken clouds"}}
 {"timestamp": "2026-03-17 23:59:10.770616", "data": {"city": "Hyderabad", "temperature": 18.73, "humidity": 82, "wind_speed": 5.14, "condition": "broken clouds"}}
 {"timestamp": "2026-03-18 01:56:15.372231", "data": {"city": "Hyderabad", "temperature": 22.64, "humidity": 64, "wind_speed": 2.96, "condition": "overcast clouds"}}
+{"timestamp": "2026-03-18 04:24:56.847230", "data": {"city": "Hyderabad", "temperature": 23.23, "humidity": 60, "wind_speed": 4.12, "condition": "haze"}}
