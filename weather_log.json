@@ -50,3 +50,4 @@
 {"timestamp": "2026-03-20 13:59:27.576015", "data": {"city": "Hyderabad", "temperature": 29.23, "humidity": 42, "wind_speed": 1.03, "condition": "haze"}}
 {"timestamp": "2026-03-20 14:53:10.927171", "data": {"city": "Hyderabad", "temperature": 27.23, "humidity": 47, "wind_speed": 2.06, "condition": "haze"}}
 {"timestamp": "2026-03-20 15:39:27.666342", "data": {"city": "Hyderabad", "temperature": 28.23, "humidity": 44, "wind_speed": 3.09, "condition": "haze"}}
+{"timestamp": "2026-03-20 16:38:57.520542", "data": {"city": "Hyderabad", "temperature": 28.23, "humidity": 47, "wind_speed": 3.09, "condition": "haze"}}
