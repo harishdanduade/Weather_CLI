@@ -142,3 +142,4 @@
 {"timestamp": "2026-03-25 07:09:36.216215", "data": {"city": "Hyderabad", "temperature": 35.24, "humidity": 23, "wind_speed": 1.12, "condition": "clear sky"}}
 {"timestamp": "2026-03-25 08:45:58.673016", "data": {"city": "Hyderabad", "temperature": 34.23, "humidity": 36, "wind_speed": 2.06, "condition": "scattered clouds"}}
 {"timestamp": "2026-03-25 09:51:14.329430", "data": {"city": "Hyderabad", "temperature": 34.23, "humidity": 36, "wind_speed": 1.54, "condition": "light intensity drizzle"}}
+{"timestamp": "2026-03-25 10:44:37.405210", "data": {"city": "Hyderabad", "temperature": 35.25, "humidity": 22, "wind_speed": 3.91, "condition": "scattered clouds"}}
